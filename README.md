@@ -3,8 +3,8 @@ Pos in Spring boot java
 
 "Java Spring Boot training"
 
-# Spring Boot Maven Plugin Reference Guide
-#Create an OCI image
+# Spring Boot Application
+
 
 App POS "Point of sales". Start at 1\2\2022 at 5:00 AM.
 
